@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mike´s Portfolio (mikethewolf83)
 
-<!--
-**mikethewolf83/mikethewolf83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mike´s personal portfolio and resumé
 
-Here are some ideas to get you started:
+## Install the dependencies
+```bash
+npm install
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
