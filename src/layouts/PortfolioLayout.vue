@@ -2,9 +2,9 @@
   <q-layout view="hHh lpR fFf">
     <q-header elevated class="bg-blue-grey-8 text-white" height-hint="98">
       <q-toolbar>
-        <q-toolbar-title class="text-left">
+        <q-toolbar-title class="text-center">
           <q-avatar square size="128px">
-            <img src="~assets/logo.png" width="128px" height="96px"/>
+            <q-img src="~assets/logo.png" />
           </q-avatar>
         </q-toolbar-title>
       </q-toolbar>
